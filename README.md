@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Feliz Aniversário!</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container"><div class="hearts"></div>    
+        <h1>🎉 Feliz Aniversário, Mari! 🎂</h1>
+        <p>Hoje é um dia especial, cheio de alegria e amor! 💖</p>
+        <button onclick="mostrarMensagem()">Clique para uma surpresa!</button>
+        <p id="mensagem"></p>
+    </div>
+
+</body><script src="script.js"></script>
+</html>
