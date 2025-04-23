@@ -1,0 +1,124 @@
+/* Estilo base */
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(to right, #5f27cd, #833ab4); /* Fundo roxinho BTS */
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    color: #ffffff;
+  }
+  
+  header, footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffffff20;
+    color: #fff;
+  }
+  
+  .quiz {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+    backdrop-filter: blur(10px);
+  }
+  
+  .quiz h2 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  form div {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px;
+    color: #fff;
+  }
+  
+  button {
+    background-color: #ba68c8;
+    border: none;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  button:hover {
+    background-color: #ab47bc;
+  }
+  
+  #resultado {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 18px;
+    background: #ffffff22;
+    padding: 20px;
+    border-radius: 12px;
+  }
+  
+  /* Corações */
+  .hearts-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 9999;
+  }
+  .heart {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background: red;
+    transform: rotate(45deg);
+    animation: fall 5s linear infinite;
+  }
+  .heart::before,
+  .heart::after {
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background: red;
+    border-radius: 50%;
+  }
+  .heart::before { top: -10px; left: 0; }
+  .heart::after { left: -10px; top: 0; }
+  
+  @keyframes fall {
+    0% { top: -10%; opacity: 1; }
+    100% { top: 100%; opacity: 0; }
+  }
+  
+  /* Responsividade */
+  @media (max-width: 600px) {
+    .quiz {
+      padding: 15px;
+      margin: 15px;
+    }
+  
+    button {
+      width: 100%;
+      font-size: 18px;
+    }
+  
+    #resultado {
+      font-size: 16px;
+      padding: 15px;
+    }
+  
+    label {
+      font-size: 16px;
+    }
+  }
+  
