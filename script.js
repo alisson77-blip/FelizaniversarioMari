@@ -81,7 +81,7 @@ const perguntas = [
       Eu sei que às vezes você se acha chata, mas pra mim não é.<br>
       E quando converso com você, me alegra – por mais que seja uma simples conversa.<br><br>
       Lembre-se do que eu falei: <strong>você é uma obra de arte!</strong> 🥰 🥰😍 😍 😍<br><br>
-      💜 Você merece tudo de mais lindo nesse mundo, Mari! 💜
+      💜 Você merece tudo de mais lindo nesse mundo, Mari!! 💜
     `;
   
     document.getElementById('resultado').innerHTML = mensagemFinal;
