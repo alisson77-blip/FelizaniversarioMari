@@ -79,7 +79,14 @@ const perguntas = [
       Que aproveite muito seu dia, gosto muito do jeito que você é e tomara que nunca mude o seu jeito.<br>
       Você é uma pessoa tão incrível que você não imagina.<br>
       Eu sei que às vezes você se acha chata, mas pra mim não é.<br>
-      E quando converso com você, me alegra – por mais que seja uma simples conversa.<br><br>
+      E quando converso com você, me alegra – por mais que seja uma simples conversa.<br>
+      Saiba que pode contar comigo sempre, porque oque você precisar estarei aqui.<br>
+      E o presente que lhe dei espero ter gostado mesmo sendo desses coreanos🙄🙄.<br>
+      Quero te dizer também que esses ultimos tempos que agente tem se falado.<br>
+      singnificou muito pra mim,estava me sentindo pouco sozinho e você foi uma amiga.<br>
+      aproveitei cada segundo que falei com voce, e aproveito muito quando manda ttk pra mim.<br>
+      Cada vez que vejo um cachorro sempre vou lembrar dos seus videos.<br>
+      Obrigado por tudo❤️❤️❤️.<br><br>
       Lembre-se do que eu falei: <strong>você é uma obra de arte!</strong> 🥰 🥰😍 😍 😍<br><br>
       💜 Você merece tudo de mais lindo nesse mundo, Mari!! 💜
     `;
