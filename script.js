@@ -84,8 +84,9 @@ const perguntas = [
       E o presente que lhe dei espero ter gostado mesmo sendo desses coreanos🙄🙄.<br>
       Quero te dizer também que esses ultimos tempos que agente tem se falado.<br>
       singnificou muito pra mim,estava me sentindo pouco sozinho e você foi uma amiga.<br>
-      aproveitei cada segundo que falei com voce, e aproveito muito quando manda ttk pra mim.<br>
-      Cada vez que vejo um cachorro sempre vou lembrar dos seus videos.<br>
+      aproveitei cada segundo que falei com você, e aproveito muito quando manda ttk pra mim.<br>
+      Cada vez que vejo um cachorro sempre vou lembrar dos seus videos😂😂😂.<br>
+      Talvez um dia saiba o quanto gosto de você,eu sempre estarei escolherei você❤️.<br>
       Obrigado por tudo❤️❤️❤️.<br><br>
       Lembre-se do que eu falei: <strong>você é uma obra de arte!</strong> 🥰 🥰😍 😍 😍<br><br>
       💜 Você merece tudo de mais lindo nesse mundo, Mari!! 💜
